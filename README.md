@@ -1,15 +1,3 @@
-# AnswerTemplate
-Шаблон репозитория для отправки заданий
-
-> [Скринкасты](https://youtube.com/playlist?list=PLbQ9NRKEG-c0vHKOmTHOxq0MqpK1ONNjt) по работе с github
-
-## Создание репозитория
-1. Сделать себе репозиторий использую данный шаблон.  
-  Для этого необходимо нажать кнопку "Use this template".  
-    <img width="163" alt="image" src="https://user-images.githubusercontent.com/14962819/194048820-c2f9941d-29f6-4d35-b6a8-7060de43111d.png">
-1. Заполнить поля **Repository name** и **Description** согласно заданными требованиям и нажать кнопку "Create repository from template".  
-    <img width="683" alt="image" src="https://user-images.githubusercontent.com/14962819/194052658-23c1ecb3-6ca8-4130-87f1-64aa565df1e9.png">
-
 ## Загрузка решений на проверку
 1. На компьютере создать новую папку с названием текущей выполненной работы.  
   Например, Лабораторная работа 1.
